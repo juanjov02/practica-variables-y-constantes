@@ -1,1 +1,0 @@
-alert("mi primer script");
